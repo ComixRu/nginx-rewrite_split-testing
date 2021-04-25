@@ -8,3 +8,6 @@
 
 ### Минусы:
 - Не совместимо с SPA
+
+
+Еще один пример реализации A/B тестов на nginx с помощью split clients и разных серверов описан тут - https://www.nginx.com/blog/performing-a-b-testing-nginx-plus/
